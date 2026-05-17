@@ -1,0 +1,6 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml3anh1d3hhd2pxeWxnbWVneW9kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwMzUyMzgsImV4cCI6MjA5MDYxMTIzOH0.fy5J4Z3BtlXtZdVgf1CPnCV_YsDDAzPQxW_PyKzAJ-c
+
+
+
+
+https://supabase.com/dashboard/project/iwjxuwxawjqylgmegyod/settings/api-keys/legacy
